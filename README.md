@@ -10,7 +10,6 @@
 
 <img src="https://raw.githubusercontent.com/Gen-AI-Developer/Gen-AI-Developer/output/snake.svg" alt="Snake animation" />
 <br clear="both">
-###
 
 <br clear="both">
 
