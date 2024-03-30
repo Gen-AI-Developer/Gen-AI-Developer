@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 ## Hi, I am  Syed Safdar Ali Shah 👋
 ❤️ I prefer NextJS on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
 🤔 I'm currently working on Generative AI and Data Science.
@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 </div>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Gen-AI-Developer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+
