@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 1+ years of experience in Python
 - 🏆 Quality Enhancement Cell Android Application Build with Java
 - ❤️ PHP API, RESTful API, MySQL
+- Also working on ![Kaggle](https://www.kaggle.com/syedsafdaralishah)
 - HTML/CSS, Javascript
 - git, docker, CI/CD
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
