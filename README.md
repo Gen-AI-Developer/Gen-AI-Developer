@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 ## Hi, I am  Syed Safdar Ali Shah 👋
 ❤️ I prefer NextJS on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on Generative AI and Data Science.
+🤔 I'm currently working on Generative AI and Full Stack.
 
 ✨ I study: React, TypeScript, NextJS, Python, R, Nodejs
 
