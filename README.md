@@ -14,20 +14,17 @@ Here are some ideas to get you started:
 -->
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 ## Hi, I am  Syed Safdar Ali Shah 👋
-❤️ I prefer NextJS on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
+❤️ I prefer NextJS on frontend and Node.js/Express.js with MongoDB and/or PostgreSQL on backend
 🤔 I'm currently working on Generative AI and Full Stack.
 
-✨ I study: React, TypeScript, NextJS, Python, R, Nodejs
-
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+✨ I study: React, TypeScript, Next.js, Python, Nodejs, TailwindCSS, Express.js,
 
 ### My stack:
-- 2+ years of experience in React, Node.js, Express.js , async, await
-- 3+ years of experience in Support IT Engneer
+- 2+ years of experience in React, Node.js, Express.js
+- 1+ years of experience in Support IT Engneer
 - 1+ years of experience in Python
 - 🏆 Quality Enhancement Cell Android Application Build with Java
-- ❤️ PHP API, RESTful API, MySQL
-- 📊 Also working on [Kaggle](https://www.kaggle.com/syedsafdaralishah)
+- ❤️ RESTful API
 - HTML/CSS, Javascript
 - git, docker, CI/CD
 - SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
