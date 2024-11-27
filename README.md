@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 ### My stack:
 - Next / Reactjs.
 - I was Support IT Engineer.
-- Python
+- I was Python Junior Daya Analyst
 - 🏆 Android Application for Quality Enhancement Cell **Stack Used**.
-- **Java for Android**.
--  **PHP for RESTful API**
+    - **Java for Android**.
+    -  **PHP for RESTful API**
 ## I Know and Still Learning
 - Linux
 - Generative AI with Python.
