@@ -20,20 +20,29 @@ Here are some ideas to get you started:
 ✨ I study: React, TypeScript, Next.js, Python, Nodejs, TailwindCSS, Express.js,
 
 ### My stack:
-- 2+ years of experience in React, Node.js, Express.js
-- 1+ years of experience in Support IT Engneer
-- 1+ years of experience in Python
-- 🏆 Quality Enhancement Cell Android Application Build with Java
-- ❤️ RESTful API
-- HTML/CSS, Javascript
-- git, docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
+- Next / Reactjs.
+- Support IT Engneer
+- Python
+- 🏆 Android Application for Quality Enhancement Cell **Stack Used**.
+- **Java for Android**.
+-  **PHP for RESTful API**
+## I Know
+- Linux
+- HTML
+- CSS
+- Javascript
+- Git
+- Docker
+- Jupyter Notebooks
+- Pandas
+- Numpy
+- in Databases > SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB.
 
 ### About me:
 - 😄 Fun fact: I was a Java developer before, worked in KP IT Park
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](programmersafdar@live.com)
-- 💬 Ask me about `Nothing`
+- 💬 Ask me about `Anything`
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Gen-AI-Developer&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gen-AI-Developer&layout=compact&theme=onedark" />
