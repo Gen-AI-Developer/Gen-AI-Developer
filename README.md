@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 -->
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 ## Hi, I am  Syed Safdar Ali Shah 👋
-❤️ I prefer NextJS on frontend and Node.js/Express.js with MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on Generative AI and Full Stack.
+❤️ I like Nextjs as a frontend, suppabase as backend.
+🤔 I'm currently working on Generative AI, Agents, CrewAI, Langchain, LangGraph, Models, Fine Tuning, Embeddings.
 
-✨ I study: React, TypeScript, Next.js, Python, Nodejs, TailwindCSS, Express.js,
+✨ I study: Python, CrewAI, LangChain, LangGraph, React, TypeScript, Next.js, Nodejs, TailwindCSS, Express.js, 
 
 ### My stack:
-- Next / Reactjs.
+- CrewAI
+- LangChain
+- LangGraph
+- Next / Reactjs (FrontEnd)
+- SuppaBase  (Backend)
 - I was Support IT Engineer.
 - I was Python Junior Daya Analyst
 - 🏆 Android Application for Quality Enhancement Cell **Stack Used**.
@@ -28,6 +32,11 @@ Here are some ideas to get you started:
     -  **PHP for RESTful API**
 ## I Know and Still Learning
 - Linux
+- CrewAi
+- LangChain
+- langGraph
+- Docker
+- K8s
 - Generative AI with Python.
 - Prompt Engineering
 - HTML
