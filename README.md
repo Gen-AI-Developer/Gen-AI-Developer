@@ -54,9 +54,3 @@ Here are some ideas to get you started:
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](programmersafdar@live.com)
 - 💬 Ask me about `Anything`
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Gen-AI-Developer&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gen-AI-Developer&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Gen-AI-Developer&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gen-AI-Developer&theme=onedark" />
-</div>
