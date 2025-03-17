@@ -60,6 +60,3 @@ Here are some ideas to get you started:
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Gen-AI-Developer&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Gen-AI-Developer&theme=onedark" />
 </div>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Gen-AI-Developer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
