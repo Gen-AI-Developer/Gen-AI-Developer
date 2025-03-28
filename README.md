@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 -->
 ![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 ## Hi, I am  Syed Safdar Ali Shah 👋
+✨ Generative AI Engineer - CrewAI, LangChain, LangGraph, OpenAI Agent SDK, Chainlit, Streamlit, Vercel AI SDK, Nextjs.
 ❤️ I like Nextjs as a frontend, suppabase as backend.
 🤔 I'm currently working on Generative AI, Agents, CrewAI, Langchain, LangGraph, Models, Fine Tuning, Embeddings.
 
-✨ I study: Open AI SDK, Python, CrewAI, LangChain, LangGraph, React, TypeScript, Next.js, Nodejs, TailwindCSS, Express.js, 
+✨ I'm constantly studying: Open AI SDK, Python, CrewAI, LangChain, LangGraph. 
 
 ### My stack:
+- Open AI SDK
 - CrewAI
 - LangChain
 - LangGraph
@@ -30,24 +32,7 @@ Here are some ideas to get you started:
 - 🏆 Android Application for Quality Enhancement Cell **Stack Used**.
     - **Java for Android**.
     -  **PHP for RESTful API**
-## I Know and Still Learning
-- Linux
-- CrewAi
-- LangChain
-- langGraph
-- Docker
-- K8s
-- Generative AI with Python.
-- Prompt Engineering
-- HTML
-- CSS
-- Javascript
-- Git
-- Docker
-- Jupyter Notebooks
-- Pandas
-- Numpy
-- in Databases > SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB.
+
 
 ### About me:
 - 😄 Fun fact: I was a Java developer before, worked in KP IT Park
