@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ❤️ I like Nextjs as a frontend, suppabase as backend.
 🤔 I'm currently working on Generative AI, Agents, CrewAI, Langchain, LangGraph, Models, Fine Tuning, Embeddings.
 
-✨ I study: Python, CrewAI, LangChain, LangGraph, React, TypeScript, Next.js, Nodejs, TailwindCSS, Express.js, 
+✨ I study: Open AI SDK, Python, CrewAI, LangChain, LangGraph, React, TypeScript, Next.js, Nodejs, TailwindCSS, Express.js, 
 
 ### My stack:
 - CrewAI
