@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi, I am  Syed Safdar Ali Shah 👋
 
 ### My stack:
-- Docker, Kubernetes and Python, Open AI Agents SDK, CrewAI, LangChain, LangGraph
+- Python, Docker, Kubernetes, Python, Open AI Agents SDK, (CrewAI, LangChain, LangGraph)
 
 ### About me:
 - 😄 Fun fact: I was a Java developer before, worked in KP IT Park
