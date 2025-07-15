@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 - 🔭 I’m looking to collaborate on commercial projects and startups
 - 📫 How to reach me: [Email](programmersafdar@live.com)
 - 💬 Ask me about `Anything`
+  
+### Certificates
+-  Anthropic Academy Introduction to Model Context Protocol
+-  Anthropic Introduction to Model Context Protocol Advance Topic
+-  CrewAI Multi AI Agent Systems with crewAI
+-  OPSWAT Academy - Introduction to CIP
+-  Certified Cloud Applied Generative AI Engineer (ongoing)
