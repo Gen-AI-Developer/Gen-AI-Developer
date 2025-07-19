@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 -  Anthropic Academy Introduction to Model Context Protocol
 -  Anthropic Introduction to Model Context Protocol Advance Topic
 -  CrewAI Multi AI Agent Systems with crewAI
--  OPSWAT Academy - Introduction to CIP
+-  OPSWAT Academy - Introduction to Critical Infrastructure Protection (CIP)
 -  Certified Cloud Applied Generative AI Engineer (ongoing)
